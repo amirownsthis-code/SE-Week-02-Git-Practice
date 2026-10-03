@@ -1,2 +1,3 @@
 Hello from Muhammad Amir.
 This is my first file for Week 2 Git practice.
+I have practiced modifying a tracked file.
