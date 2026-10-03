@@ -1,2 +1,2 @@
-These notes were added on the feature-notes branch.
+Notes updated from the main branch.
 I am practicing Git branching and merging.
